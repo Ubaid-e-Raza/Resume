@@ -1,0 +1,40 @@
+
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-image: url('bg.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  color:#6211b3
+
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#profile-pic {
+  width: 150px;
+  border-radius: 50%;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+button {
+  display: inline-block;
+  background-color: #1c1e21;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #74b300;
+}
